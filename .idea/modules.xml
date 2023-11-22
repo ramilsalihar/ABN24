@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/abn24.iml" filepath="$PROJECT_DIR$/abn24.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/abn24_android.iml" filepath="$PROJECT_DIR$/android/abn24_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/abn24_flutter.iml" filepath="$PROJECT_DIR$/.idea/abn24_flutter.iml" />
     </modules>
   </component>
 </project>

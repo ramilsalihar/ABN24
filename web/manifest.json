@@ -1,6 +1,6 @@
 {
-    "name": "abn24",
-    "short_name": "abn24",
+    "name": "project_name",
+    "short_name": "project_name",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

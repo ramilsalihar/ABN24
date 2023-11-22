@@ -1,7 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.abn24">
+    package="com.example.project_name">
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="abn24"
+        android:label="project_name"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
